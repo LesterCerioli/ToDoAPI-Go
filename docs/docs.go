@@ -260,7 +260,7 @@ var SwaggerInfo = &swag.Spec{
 	Version:          "1.0.0",
 	Host:             "todoapi-go.onrender.com",
 	BasePath:         "/api/v1",
-	Schemes:          []string{"http"},
+	Schemes:          []string{"https"},
 	Title:            "Todo API",
 	Description:      "A production-ready CRUD Todo API with SQLite, Swagger UI, and graceful shutdown.",
 	InfoInstanceName: "swagger",
