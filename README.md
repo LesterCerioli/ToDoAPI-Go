@@ -228,8 +228,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Your Name** — [@yourusername](https://github.com/yourusername)
+**Lester Cerioli** — [GitHub](https://github.com/lestercerioli) · [LinkedIn](https://www.linkedin.com/in/lester-cerioli-83300a81/)
 
+<p align="center">
+  Built with ❤️ using <a href="https://golang.org/">Go</a> & <a href="https://gofiber.io/">Fiber</a>
+</p>
 ---
 
 <p align="center">
@@ -237,7 +240,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </p>
 ```
 
----
+
 
 ## Quick Customization Checklist
 
