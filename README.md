@@ -251,4 +251,21 @@ Replace these placeholders before committing:
 | `Your Name` | Your actual name |
 
 ---
+<img width="1287" height="716" alt="image" src="https://github.com/user-attachments/assets/d725040a-c47f-45cb-b41f-569ed6960772" />
+
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/7ed86d9b-1966-4f1b-ae0e-017662b35e8b" />
+
+<img width="1246" height="593" alt="image" src="https://github.com/user-attachments/assets/68b35d9f-93af-42f2-9463-7e8e29eae536" />
+
+<img width="1365" height="554" alt="image" src="https://github.com/user-attachments/assets/5ab26563-b163-4e7a-83c8-cdeaee977bf1" />
+
+<img width="1353" height="576" alt="image" src="https://github.com/user-attachments/assets/a5267d7a-24b0-41bb-a09e-88b3b192e5bf" />
+
+<img width="1360" height="609" alt="image" src="https://github.com/user-attachments/assets/b3439f39-d315-45c1-a4a5-041af063e2a9" />
+
+
+
+
+
+
 
