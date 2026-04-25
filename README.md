@@ -1,9 +1,6 @@
----
 
-## `To Do Golang API`
+# To Do Golang Rest API
 
-```markdown
-# 📝 Todo API
 
 A production-ready REST API for managing todo tasks, built with **Go 1.26** and **Fiber v3**. Features SQLite persistence, interactive Swagger documentation, graceful shutdown, and Docker support.
 
